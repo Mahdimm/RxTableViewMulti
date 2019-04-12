@@ -5,4 +5,4 @@
 
 ## Detail
 
-This is a sample for configuring UITableView with Rx and there is a tutorial [Here](https://google.com)
+This is a sample for configuring UITableView with Rx and there is a tutorial [Here](https://medium.com/@m.mahjoobe.mm/tableview-in-rxswift-2-93296a4e6807)
